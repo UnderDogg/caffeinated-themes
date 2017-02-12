@@ -21,6 +21,12 @@
             "Caffeinated\\Themes\\": "src/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
     "suggest": {
         "caffeinated/sapling": "Laravel 5 Twig integration package"
     }
